@@ -5,7 +5,7 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)](https://jupyter.org/)
 [![License: choose](https://img.shields.io/badge/License-choose-green.svg)](#license)
 
-Exploratory analysis for **Part 1** of MIT 805. The goal is to **collect and describe** a large imaging dataset and analyze it using the **7 Vs of Big Data** (plus value), producing figures and a short report.
+Exploratory analysis for **Part 1** of MIT 805. The aim is to **collect and describe** a large breast cancer imaging dataset and analyze it using the **7 Vs of Big Data** (plus value), producing plots and a brief report.
 
 **Notebook:** [`breastCancerAnalysis.ipynb`](breastCancerAnalysis.ipynb)  
 **Report (LaTeX/PDF):** see `/report/`
