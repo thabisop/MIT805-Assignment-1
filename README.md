@@ -1,4 +1,3 @@
-# MIT805-Assignment-1
 
 # MIT 805 – Assignment Part 1: Breast Cancer Imaging (BACH / ICIAR 2018)
 
