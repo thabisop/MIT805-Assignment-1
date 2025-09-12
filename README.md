@@ -18,7 +18,7 @@ Exploratory analysis for **Part 1** of MIT 805. The goal is to **collect and des
 - **Images:** **660**  
 - **Formats:** 600 × `.tif`, 60 × `.png` (thumbnails)  
 - **Velocity sample:** decoded 300 images (≈4895.8 MB) in 42.89 s → **~114.16 MB/s** 
-- **Local snapshot day (file mtimes):** **2025-08-19**  
+- **Local snapshot day (file mtimes):** **2025-09-04**  
 - **Diagnostic-type counts (from path tokens):**  
   | Diagnostic type         | Count |
   |-------------------------|------:|
